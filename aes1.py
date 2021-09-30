@@ -1,3 +1,5 @@
+import os
+import sys
 import base64
 from Crypto.Cipher import AES
 key = b'keytamilctf2021!'
